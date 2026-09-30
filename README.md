@@ -48,10 +48,10 @@ Java-based project for managing books and users.
 
 ## 📫 Connect With Me
 
-📧 Email: babulbehera2000@gmail.com
+📧 Email: babulbehera28052006@gmail.com
 
 💼 LinkedIn:
-(Add your LinkedIn profile URL)
+https://www.linkedin.com/in/babul-behera-54393234a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
