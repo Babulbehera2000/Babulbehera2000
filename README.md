@@ -5,7 +5,7 @@
 
 🎓 BSc ITM Student at Ravenshaw University
 
-💻 Python Developer | Java Developer
+💻 Python Developer |
 
 🌱 Currently Learning Python, DSA & Machine Learning
 
