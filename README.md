@@ -1,7 +1,6 @@
 # Hi 👋, I'm Babul Behera (BK)
 
 ## 🚀 About Me
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=Python+Developer;Machine+Learning+Learner;SQL+HTML+CSS)](https://git.io/typing-svg) 
 
 🎓 BSc ITM Student at Ravenshaw University
@@ -17,7 +16,9 @@
 ---
 
 ## 🛠️ Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Oracle](https://img.shields.io/badge/Oracle-red)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 - Python
 - Java
 - SQL
