@@ -35,8 +35,6 @@
 - Python Programming
 - Data Structures & Algorithms
 - Machine Learning
-- Git & GitHub
-
 ---
 
 ## 🚀 Projects
