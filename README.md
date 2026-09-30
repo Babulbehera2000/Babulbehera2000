@@ -56,3 +56,9 @@ https://www.linkedin.com/in/babul-behera-54393234a?utm_source=share_via&utm_cont
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babulbehera2000&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Babulbehera2000&layout=compact&theme=tokyonight)
