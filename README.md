@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=Python+Developer;Java+Developer;Machine+Learning+Learner;Future+Google+Engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=435&lines=Python+Developer;Machine+Learning+Learner;Future+Google+Engineer)](https://git.io/typing-svg) 
 
 🎓 BSc ITM Student at Ravenshaw University
 
